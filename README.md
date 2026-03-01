@@ -1,6 +1,6 @@
 # Hi there, I'm Dhruv Pramod Patil 👋 
 
-### 🚀 Tech Enthusiast | AI Odyssey 2.0 Participant | Creative Developer
+### 🚀 Tech Enthusiast 
 I am a student at **JSPM RSCOE** focused on building functional applications and exploring AI. Currently, I'm pivoting my focus toward full-scale project development and competitive programming.
 
 ---
